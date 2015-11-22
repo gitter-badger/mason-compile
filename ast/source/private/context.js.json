@@ -1,0 +1,3281 @@
+{
+  "type": "Program",
+  "body": [
+    {
+      "type": "ImportDeclaration",
+      "specifiers": [
+        {
+          "type": "ImportSpecifier",
+          "local": {
+            "type": "Identifier",
+            "name": "Pos",
+            "range": [
+              8,
+              11
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 8
+              },
+              "end": {
+                "line": 1,
+                "column": 11
+              }
+            }
+          },
+          "imported": {
+            "type": "Identifier",
+            "name": "Pos",
+            "range": [
+              8,
+              11
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 8
+              },
+              "end": {
+                "line": 1,
+                "column": 11
+              }
+            }
+          },
+          "range": [
+            8,
+            11
+          ],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 8
+            },
+            "end": {
+              "line": 1,
+              "column": 11
+            }
+          }
+        },
+        {
+          "type": "ImportSpecifier",
+          "local": {
+            "type": "Identifier",
+            "name": "singleCharLoc",
+            "range": [
+              13,
+              26
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 13
+              },
+              "end": {
+                "line": 1,
+                "column": 26
+              }
+            }
+          },
+          "imported": {
+            "type": "Identifier",
+            "name": "singleCharLoc",
+            "range": [
+              13,
+              26
+            ],
+            "loc": {
+              "start": {
+                "line": 1,
+                "column": 13
+              },
+              "end": {
+                "line": 1,
+                "column": 26
+              }
+            }
+          },
+          "range": [
+            13,
+            26
+          ],
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 13
+            },
+            "end": {
+              "line": 1,
+              "column": 26
+            }
+          }
+        }
+      ],
+      "source": {
+        "type": "Literal",
+        "value": "esast/dist/Loc",
+        "raw": "'esast/dist/Loc'",
+        "range": [
+          33,
+          49
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 49
+          }
+        }
+      },
+      "range": [
+        0,
+        50
+      ],
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 0
+        }
+      }
+    },
+    {
+      "type": "ImportDeclaration",
+      "specifiers": [
+        {
+          "type": "ImportDefaultSpecifier",
+          "local": {
+            "type": "Identifier",
+            "name": "CompileError",
+            "range": [
+              57,
+              69
+            ],
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 7
+              },
+              "end": {
+                "line": 2,
+                "column": 19
+              }
+            }
+          },
+          "range": [
+            57,
+            69
+          ],
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 7
+            },
+            "end": {
+              "line": 2,
+              "column": 19
+            }
+          }
+        },
+        {
+          "type": "ImportSpecifier",
+          "local": {
+            "type": "Identifier",
+            "name": "Warning",
+            "range": [
+              72,
+              79
+            ],
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 22
+              },
+              "end": {
+                "line": 2,
+                "column": 29
+              }
+            }
+          },
+          "imported": {
+            "type": "Identifier",
+            "name": "Warning",
+            "range": [
+              72,
+              79
+            ],
+            "loc": {
+              "start": {
+                "line": 2,
+                "column": 22
+              },
+              "end": {
+                "line": 2,
+                "column": 29
+              }
+            }
+          },
+          "range": [
+            72,
+            79
+          ],
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 29
+            }
+          }
+        }
+      ],
+      "source": {
+        "type": "Literal",
+        "value": "../CompileError",
+        "raw": "'../CompileError'",
+        "range": [
+          86,
+          103
+        ],
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 36
+          },
+          "end": {
+            "line": 2,
+            "column": 53
+          }
+        }
+      },
+      "range": [
+        50,
+        104
+      ],
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0
+        },
+        "end": {
+          "line": 3,
+          "column": 0
+        }
+      }
+    },
+    {
+      "type": "ImportDeclaration",
+      "specifiers": [
+        {
+          "type": "ImportDefaultSpecifier",
+          "local": {
+            "type": "Identifier",
+            "name": "CompileOptions",
+            "range": [
+              111,
+              125
+            ],
+            "loc": {
+              "start": {
+                "line": 3,
+                "column": 7
+              },
+              "end": {
+                "line": 3,
+                "column": 21
+              }
+            }
+          },
+          "range": [
+            111,
+            125
+          ],
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 7
+            },
+            "end": {
+              "line": 3,
+              "column": 21
+            }
+          }
+        }
+      ],
+      "source": {
+        "type": "Literal",
+        "value": "./CompileOptions",
+        "raw": "'./CompileOptions'",
+        "range": [
+          131,
+          149
+        ],
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 27
+          },
+          "end": {
+            "line": 3,
+            "column": 45
+          }
+        },
+        "trailingComments": [
+          {
+            "type": "Block",
+            "value": "*\nOptions that were passed in at the call to {@link compile}.\n@type {CompileOptions}\n",
+            "range": [
+              151,
+              240
+            ],
+            "loc": {
+              "start": {
+                "line": 5,
+                "column": 0
+              },
+              "end": {
+                "line": 8,
+                "column": 2
+              }
+            }
+          }
+        ]
+      },
+      "range": [
+        104,
+        241
+      ],
+      "loc": {
+        "start": {
+          "line": 3,
+          "column": 0
+        },
+        "end": {
+          "line": 9,
+          "column": 0
+        }
+      }
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": {
+        "type": "VariableDeclaration",
+        "declarations": [
+          {
+            "type": "VariableDeclarator",
+            "id": {
+              "type": "Identifier",
+              "name": "options",
+              "range": [
+                252,
+                259
+              ],
+              "loc": {
+                "start": {
+                  "line": 9,
+                  "column": 11
+                },
+                "end": {
+                  "line": 9,
+                  "column": 18
+                }
+              }
+            },
+            "init": null,
+            "range": [
+              252,
+              259
+            ],
+            "loc": {
+              "start": {
+                "line": 9,
+                "column": 11
+              },
+              "end": {
+                "line": 9,
+                "column": 18
+              }
+            },
+            "trailingComments": [
+              {
+                "type": "Block",
+                "value": "*\nArray of all warnings produced during compilation.\n(Please use {@warn} instead of writing to this directly.)\n",
+                "range": [
+                  260,
+                  375
+                ],
+                "loc": {
+                  "start": {
+                    "line": 10,
+                    "column": 0
+                  },
+                  "end": {
+                    "line": 13,
+                    "column": 2
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "kind": "let",
+        "range": [
+          248,
+          376
+        ],
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 7
+          },
+          "end": {
+            "line": 14,
+            "column": 0
+          }
+        },
+        "leadingComments": [
+          {
+            "type": "Block",
+            "value": "*\nOptions that were passed in at the call to {@link compile}.\n@type {CompileOptions}\n",
+            "range": [
+              151,
+              240
+            ],
+            "loc": {
+              "start": {
+                "line": 5,
+                "column": 0
+              },
+              "end": {
+                "line": 8,
+                "column": 2
+              }
+            }
+          }
+        ],
+        "trailingComments": []
+      },
+      "specifiers": [],
+      "source": null,
+      "range": [
+        241,
+        376
+      ],
+      "loc": {
+        "start": {
+          "line": 9,
+          "column": 0
+        },
+        "end": {
+          "line": 14,
+          "column": 0
+        }
+      },
+      "leadingComments": [
+        {
+          "type": "Block",
+          "value": "*\nOptions that were passed in at the call to {@link compile}.\n@type {CompileOptions}\n",
+          "range": [
+            151,
+            240
+          ],
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 0
+            },
+            "end": {
+              "line": 8,
+              "column": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": {
+        "type": "VariableDeclaration",
+        "declarations": [
+          {
+            "type": "VariableDeclarator",
+            "id": {
+              "type": "Identifier",
+              "name": "warnings",
+              "range": [
+                387,
+                395
+              ],
+              "loc": {
+                "start": {
+                  "line": 14,
+                  "column": 11
+                },
+                "end": {
+                  "line": 14,
+                  "column": 19
+                }
+              }
+            },
+            "init": null,
+            "range": [
+              387,
+              395
+            ],
+            "loc": {
+              "start": {
+                "line": 14,
+                "column": 11
+              },
+              "end": {
+                "line": 14,
+                "column": 19
+              }
+            },
+            "trailingComments": [
+              {
+                "type": "Block",
+                "value": "*\nWrite to {@link options} and {@link warnings}.\nRemember to call {@link unsetContext}!\n",
+                "range": [
+                  397,
+                  489
+                ],
+                "loc": {
+                  "start": {
+                    "line": 16,
+                    "column": 0
+                  },
+                  "end": {
+                    "line": 19,
+                    "column": 2
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "kind": "let",
+        "range": [
+          383,
+          490
+        ],
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 7
+          },
+          "end": {
+            "line": 20,
+            "column": 0
+          }
+        },
+        "leadingComments": [
+          {
+            "type": "Block",
+            "value": "*\nOptions that were passed in at the call to {@link compile}.\n@type {CompileOptions}\n",
+            "range": [
+              151,
+              240
+            ],
+            "loc": {
+              "start": {
+                "line": 5,
+                "column": 0
+              },
+              "end": {
+                "line": 8,
+                "column": 2
+              }
+            }
+          },
+          {
+            "type": "Block",
+            "value": "*\nArray of all warnings produced during compilation.\n(Please use {@warn} instead of writing to this directly.)\n",
+            "range": [
+              260,
+              375
+            ],
+            "loc": {
+              "start": {
+                "line": 10,
+                "column": 0
+              },
+              "end": {
+                "line": 13,
+                "column": 2
+              }
+            }
+          }
+        ],
+        "trailingComments": []
+      },
+      "specifiers": [],
+      "source": null,
+      "range": [
+        376,
+        490
+      ],
+      "loc": {
+        "start": {
+          "line": 14,
+          "column": 0
+        },
+        "end": {
+          "line": 20,
+          "column": 0
+        }
+      },
+      "leadingComments": [
+        {
+          "type": "Block",
+          "value": "*\nOptions that were passed in at the call to {@link compile}.\n@type {CompileOptions}\n",
+          "range": [
+            151,
+            240
+          ],
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 0
+            },
+            "end": {
+              "line": 8,
+              "column": 2
+            }
+          }
+        },
+        {
+          "type": "Block",
+          "value": "*\nArray of all warnings produced during compilation.\n(Please use {@warn} instead of writing to this directly.)\n",
+          "range": [
+            260,
+            375
+          ],
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 0
+            },
+            "end": {
+              "line": 13,
+              "column": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": {
+        "type": "FunctionDeclaration",
+        "id": {
+          "type": "Identifier",
+          "name": "setContext",
+          "range": [
+            506,
+            516
+          ],
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 16
+            },
+            "end": {
+              "line": 20,
+              "column": 26
+            }
+          }
+        },
+        "params": [
+          {
+            "type": "Identifier",
+            "name": "opts",
+            "range": [
+              517,
+              521
+            ],
+            "loc": {
+              "start": {
+                "line": 20,
+                "column": 27
+              },
+              "end": {
+                "line": 20,
+                "column": 31
+              }
+            }
+          }
+        ],
+        "body": {
+          "type": "BlockStatement",
+          "body": [
+            {
+              "type": "ExpressionStatement",
+              "expression": {
+                "type": "AssignmentExpression",
+                "operator": "=",
+                "left": {
+                  "type": "Identifier",
+                  "name": "options",
+                  "range": [
+                    526,
+                    533
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 21,
+                      "column": 1
+                    },
+                    "end": {
+                      "line": 21,
+                      "column": 8
+                    }
+                  }
+                },
+                "right": {
+                  "type": "NewExpression",
+                  "callee": {
+                    "type": "Identifier",
+                    "name": "CompileOptions",
+                    "range": [
+                      540,
+                      554
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 21,
+                        "column": 15
+                      },
+                      "end": {
+                        "line": 21,
+                        "column": 29
+                      }
+                    }
+                  },
+                  "arguments": [
+                    {
+                      "type": "Identifier",
+                      "name": "opts",
+                      "range": [
+                        555,
+                        559
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 21,
+                          "column": 30
+                        },
+                        "end": {
+                          "line": 21,
+                          "column": 34
+                        }
+                      }
+                    }
+                  ],
+                  "range": [
+                    536,
+                    560
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 21,
+                      "column": 11
+                    },
+                    "end": {
+                      "line": 21,
+                      "column": 35
+                    }
+                  }
+                },
+                "range": [
+                  526,
+                  560
+                ],
+                "loc": {
+                  "start": {
+                    "line": 21,
+                    "column": 1
+                  },
+                  "end": {
+                    "line": 21,
+                    "column": 35
+                  }
+                }
+              },
+              "range": [
+                526,
+                562
+              ],
+              "loc": {
+                "start": {
+                  "line": 21,
+                  "column": 1
+                },
+                "end": {
+                  "line": 22,
+                  "column": 1
+                }
+              }
+            },
+            {
+              "type": "ExpressionStatement",
+              "expression": {
+                "type": "AssignmentExpression",
+                "operator": "=",
+                "left": {
+                  "type": "Identifier",
+                  "name": "warnings",
+                  "range": [
+                    562,
+                    570
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 22,
+                      "column": 1
+                    },
+                    "end": {
+                      "line": 22,
+                      "column": 9
+                    }
+                  }
+                },
+                "right": {
+                  "type": "ArrayExpression",
+                  "elements": [],
+                  "range": [
+                    573,
+                    575
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 22,
+                      "column": 12
+                    },
+                    "end": {
+                      "line": 22,
+                      "column": 14
+                    }
+                  }
+                },
+                "range": [
+                  562,
+                  575
+                ],
+                "loc": {
+                  "start": {
+                    "line": 22,
+                    "column": 1
+                  },
+                  "end": {
+                    "line": 22,
+                    "column": 14
+                  }
+                }
+              },
+              "range": [
+                562,
+                576
+              ],
+              "loc": {
+                "start": {
+                  "line": 22,
+                  "column": 1
+                },
+                "end": {
+                  "line": 23,
+                  "column": 0
+                }
+              }
+            }
+          ],
+          "range": [
+            523,
+            577
+          ],
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 33
+            },
+            "end": {
+              "line": 23,
+              "column": 1
+            }
+          }
+        },
+        "generator": false,
+        "expression": false,
+        "range": [
+          497,
+          577
+        ],
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 7
+          },
+          "end": {
+            "line": 23,
+            "column": 1
+          }
+        },
+        "leadingComments": [
+          {
+            "type": "Block",
+            "value": "*\nOptions that were passed in at the call to {@link compile}.\n@type {CompileOptions}\n",
+            "range": [
+              151,
+              240
+            ],
+            "loc": {
+              "start": {
+                "line": 5,
+                "column": 0
+              },
+              "end": {
+                "line": 8,
+                "column": 2
+              }
+            }
+          },
+          {
+            "type": "Block",
+            "value": "*\nArray of all warnings produced during compilation.\n(Please use {@warn} instead of writing to this directly.)\n",
+            "range": [
+              260,
+              375
+            ],
+            "loc": {
+              "start": {
+                "line": 10,
+                "column": 0
+              },
+              "end": {
+                "line": 13,
+                "column": 2
+              }
+            }
+          },
+          {
+            "type": "Block",
+            "value": "*\nWrite to {@link options} and {@link warnings}.\nRemember to call {@link unsetContext}!\n",
+            "range": [
+              397,
+              489
+            ],
+            "loc": {
+              "start": {
+                "line": 16,
+                "column": 0
+              },
+              "end": {
+                "line": 19,
+                "column": 2
+              }
+            }
+          }
+        ],
+        "trailingComments": [
+          {
+            "type": "Block",
+            "value": "* Release {@link options} and {@link warnings} for garbage collection. ",
+            "range": [
+              579,
+              654
+            ],
+            "loc": {
+              "start": {
+                "line": 25,
+                "column": 0
+              },
+              "end": {
+                "line": 25,
+                "column": 75
+              }
+            }
+          }
+        ]
+      },
+      "specifiers": [],
+      "source": null,
+      "range": [
+        490,
+        577
+      ],
+      "loc": {
+        "start": {
+          "line": 20,
+          "column": 0
+        },
+        "end": {
+          "line": 23,
+          "column": 1
+        }
+      },
+      "leadingComments": [
+        {
+          "type": "Block",
+          "value": "*\nOptions that were passed in at the call to {@link compile}.\n@type {CompileOptions}\n",
+          "range": [
+            151,
+            240
+          ],
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 0
+            },
+            "end": {
+              "line": 8,
+              "column": 2
+            }
+          }
+        },
+        {
+          "type": "Block",
+          "value": "*\nArray of all warnings produced during compilation.\n(Please use {@warn} instead of writing to this directly.)\n",
+          "range": [
+            260,
+            375
+          ],
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 0
+            },
+            "end": {
+              "line": 13,
+              "column": 2
+            }
+          }
+        },
+        {
+          "type": "Block",
+          "value": "*\nWrite to {@link options} and {@link warnings}.\nRemember to call {@link unsetContext}!\n",
+          "range": [
+            397,
+            489
+          ],
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 0
+            },
+            "end": {
+              "line": 19,
+              "column": 2
+            }
+          }
+        }
+      ],
+      "trailingComments": [
+        {
+          "type": "Block",
+          "value": "* Release {@link options} and {@link warnings} for garbage collection. ",
+          "range": [
+            579,
+            654
+          ],
+          "loc": {
+            "start": {
+              "line": 25,
+              "column": 0
+            },
+            "end": {
+              "line": 25,
+              "column": 75
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": {
+        "type": "FunctionDeclaration",
+        "id": {
+          "type": "Identifier",
+          "name": "unsetContext",
+          "range": [
+            671,
+            683
+          ],
+          "loc": {
+            "start": {
+              "line": 26,
+              "column": 16
+            },
+            "end": {
+              "line": 26,
+              "column": 28
+            }
+          }
+        },
+        "params": [],
+        "body": {
+          "type": "BlockStatement",
+          "body": [
+            {
+              "type": "ExpressionStatement",
+              "expression": {
+                "type": "AssignmentExpression",
+                "operator": "=",
+                "left": {
+                  "type": "Identifier",
+                  "name": "options",
+                  "range": [
+                    689,
+                    696
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 27,
+                      "column": 1
+                    },
+                    "end": {
+                      "line": 27,
+                      "column": 8
+                    }
+                  }
+                },
+                "right": {
+                  "type": "Literal",
+                  "value": null,
+                  "raw": "null",
+                  "range": [
+                    699,
+                    703
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 27,
+                      "column": 11
+                    },
+                    "end": {
+                      "line": 27,
+                      "column": 15
+                    }
+                  }
+                },
+                "range": [
+                  689,
+                  703
+                ],
+                "loc": {
+                  "start": {
+                    "line": 27,
+                    "column": 1
+                  },
+                  "end": {
+                    "line": 27,
+                    "column": 15
+                  }
+                }
+              },
+              "range": [
+                689,
+                705
+              ],
+              "loc": {
+                "start": {
+                  "line": 27,
+                  "column": 1
+                },
+                "end": {
+                  "line": 28,
+                  "column": 1
+                }
+              }
+            },
+            {
+              "type": "ExpressionStatement",
+              "expression": {
+                "type": "AssignmentExpression",
+                "operator": "=",
+                "left": {
+                  "type": "Identifier",
+                  "name": "warnings",
+                  "range": [
+                    705,
+                    713
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 28,
+                      "column": 1
+                    },
+                    "end": {
+                      "line": 28,
+                      "column": 9
+                    }
+                  }
+                },
+                "right": {
+                  "type": "Literal",
+                  "value": null,
+                  "raw": "null",
+                  "range": [
+                    716,
+                    720
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 28,
+                      "column": 12
+                    },
+                    "end": {
+                      "line": 28,
+                      "column": 16
+                    }
+                  }
+                },
+                "range": [
+                  705,
+                  720
+                ],
+                "loc": {
+                  "start": {
+                    "line": 28,
+                    "column": 1
+                  },
+                  "end": {
+                    "line": 28,
+                    "column": 16
+                  }
+                }
+              },
+              "range": [
+                705,
+                721
+              ],
+              "loc": {
+                "start": {
+                  "line": 28,
+                  "column": 1
+                },
+                "end": {
+                  "line": 29,
+                  "column": 0
+                }
+              }
+            }
+          ],
+          "range": [
+            686,
+            722
+          ],
+          "loc": {
+            "start": {
+              "line": 26,
+              "column": 31
+            },
+            "end": {
+              "line": 29,
+              "column": 1
+            }
+          }
+        },
+        "generator": false,
+        "expression": false,
+        "range": [
+          662,
+          722
+        ],
+        "loc": {
+          "start": {
+            "line": 26,
+            "column": 7
+          },
+          "end": {
+            "line": 29,
+            "column": 1
+          }
+        },
+        "leadingComments": [
+          {
+            "type": "Block",
+            "value": "* Release {@link options} and {@link warnings} for garbage collection. ",
+            "range": [
+              579,
+              654
+            ],
+            "loc": {
+              "start": {
+                "line": 25,
+                "column": 0
+              },
+              "end": {
+                "line": 25,
+                "column": 75
+              }
+            }
+          }
+        ],
+        "trailingComments": [
+          {
+            "type": "Block",
+            "value": "*\nIf `cond` is false, {@link fail}.\n`loc` and `message` may also be Functions to to get them lazily.\n",
+            "range": [
+              724,
+              829
+            ],
+            "loc": {
+              "start": {
+                "line": 31,
+                "column": 0
+              },
+              "end": {
+                "line": 34,
+                "column": 2
+              }
+            }
+          }
+        ]
+      },
+      "specifiers": [],
+      "source": null,
+      "range": [
+        655,
+        722
+      ],
+      "loc": {
+        "start": {
+          "line": 26,
+          "column": 0
+        },
+        "end": {
+          "line": 29,
+          "column": 1
+        }
+      },
+      "leadingComments": [
+        {
+          "type": "Block",
+          "value": "* Release {@link options} and {@link warnings} for garbage collection. ",
+          "range": [
+            579,
+            654
+          ],
+          "loc": {
+            "start": {
+              "line": 25,
+              "column": 0
+            },
+            "end": {
+              "line": 25,
+              "column": 75
+            }
+          }
+        }
+      ],
+      "trailingComments": [
+        {
+          "type": "Block",
+          "value": "*\nIf `cond` is false, {@link fail}.\n`loc` and `message` may also be Functions to to get them lazily.\n",
+          "range": [
+            724,
+            829
+          ],
+          "loc": {
+            "start": {
+              "line": 31,
+              "column": 0
+            },
+            "end": {
+              "line": 34,
+              "column": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": {
+        "type": "FunctionDeclaration",
+        "id": {
+          "type": "Identifier",
+          "name": "check",
+          "range": [
+            846,
+            851
+          ],
+          "loc": {
+            "start": {
+              "line": 35,
+              "column": 16
+            },
+            "end": {
+              "line": 35,
+              "column": 21
+            }
+          }
+        },
+        "params": [
+          {
+            "type": "Identifier",
+            "name": "cond",
+            "range": [
+              852,
+              856
+            ],
+            "loc": {
+              "start": {
+                "line": 35,
+                "column": 22
+              },
+              "end": {
+                "line": 35,
+                "column": 26
+              }
+            }
+          },
+          {
+            "type": "Identifier",
+            "name": "loc",
+            "range": [
+              858,
+              861
+            ],
+            "loc": {
+              "start": {
+                "line": 35,
+                "column": 28
+              },
+              "end": {
+                "line": 35,
+                "column": 31
+              }
+            }
+          },
+          {
+            "type": "Identifier",
+            "name": "message",
+            "range": [
+              863,
+              870
+            ],
+            "loc": {
+              "start": {
+                "line": 35,
+                "column": 33
+              },
+              "end": {
+                "line": 35,
+                "column": 40
+              }
+            }
+          }
+        ],
+        "body": {
+          "type": "BlockStatement",
+          "body": [
+            {
+              "type": "IfStatement",
+              "test": {
+                "type": "UnaryExpression",
+                "operator": "!",
+                "argument": {
+                  "type": "Identifier",
+                  "name": "cond",
+                  "range": [
+                    880,
+                    884
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 36,
+                      "column": 6
+                    },
+                    "end": {
+                      "line": 36,
+                      "column": 10
+                    }
+                  }
+                },
+                "prefix": true,
+                "range": [
+                  879,
+                  884
+                ],
+                "loc": {
+                  "start": {
+                    "line": 36,
+                    "column": 5
+                  },
+                  "end": {
+                    "line": 36,
+                    "column": 10
+                  }
+                }
+              },
+              "consequent": {
+                "type": "BlockStatement",
+                "body": [
+                  {
+                    "type": "IfStatement",
+                    "test": {
+                      "type": "BinaryExpression",
+                      "operator": "instanceof",
+                      "left": {
+                        "type": "Identifier",
+                        "name": "loc",
+                        "range": [
+                          894,
+                          897
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 37,
+                            "column": 6
+                          },
+                          "end": {
+                            "line": 37,
+                            "column": 9
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "Identifier",
+                        "name": "Function",
+                        "range": [
+                          909,
+                          917
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 37,
+                            "column": 21
+                          },
+                          "end": {
+                            "line": 37,
+                            "column": 29
+                          }
+                        }
+                      },
+                      "range": [
+                        894,
+                        917
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 37,
+                          "column": 6
+                        },
+                        "end": {
+                          "line": 37,
+                          "column": 29
+                        }
+                      }
+                    },
+                    "consequent": {
+                      "type": "ExpressionStatement",
+                      "expression": {
+                        "type": "AssignmentExpression",
+                        "operator": "=",
+                        "left": {
+                          "type": "Identifier",
+                          "name": "loc",
+                          "range": [
+                            922,
+                            925
+                          ],
+                          "loc": {
+                            "start": {
+                              "line": 38,
+                              "column": 3
+                            },
+                            "end": {
+                              "line": 38,
+                              "column": 6
+                            }
+                          }
+                        },
+                        "right": {
+                          "type": "CallExpression",
+                          "callee": {
+                            "type": "Identifier",
+                            "name": "loc",
+                            "range": [
+                              928,
+                              931
+                            ],
+                            "loc": {
+                              "start": {
+                                "line": 38,
+                                "column": 9
+                              },
+                              "end": {
+                                "line": 38,
+                                "column": 12
+                              }
+                            }
+                          },
+                          "arguments": [],
+                          "range": [
+                            928,
+                            933
+                          ],
+                          "loc": {
+                            "start": {
+                              "line": 38,
+                              "column": 9
+                            },
+                            "end": {
+                              "line": 38,
+                              "column": 14
+                            }
+                          }
+                        },
+                        "range": [
+                          922,
+                          933
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 38,
+                            "column": 3
+                          },
+                          "end": {
+                            "line": 38,
+                            "column": 14
+                          }
+                        }
+                      },
+                      "range": [
+                        922,
+                        936
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 38,
+                          "column": 3
+                        },
+                        "end": {
+                          "line": 39,
+                          "column": 2
+                        }
+                      }
+                    },
+                    "alternate": null,
+                    "range": [
+                      890,
+                      936
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 37,
+                        "column": 2
+                      },
+                      "end": {
+                        "line": 39,
+                        "column": 2
+                      }
+                    }
+                  },
+                  {
+                    "type": "IfStatement",
+                    "test": {
+                      "type": "BinaryExpression",
+                      "operator": "instanceof",
+                      "left": {
+                        "type": "Identifier",
+                        "name": "message",
+                        "range": [
+                          940,
+                          947
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 39,
+                            "column": 6
+                          },
+                          "end": {
+                            "line": 39,
+                            "column": 13
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "Identifier",
+                        "name": "Function",
+                        "range": [
+                          959,
+                          967
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 39,
+                            "column": 25
+                          },
+                          "end": {
+                            "line": 39,
+                            "column": 33
+                          }
+                        }
+                      },
+                      "range": [
+                        940,
+                        967
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 39,
+                          "column": 6
+                        },
+                        "end": {
+                          "line": 39,
+                          "column": 33
+                        }
+                      }
+                    },
+                    "consequent": {
+                      "type": "ExpressionStatement",
+                      "expression": {
+                        "type": "AssignmentExpression",
+                        "operator": "=",
+                        "left": {
+                          "type": "Identifier",
+                          "name": "message",
+                          "range": [
+                            972,
+                            979
+                          ],
+                          "loc": {
+                            "start": {
+                              "line": 40,
+                              "column": 3
+                            },
+                            "end": {
+                              "line": 40,
+                              "column": 10
+                            }
+                          }
+                        },
+                        "right": {
+                          "type": "CallExpression",
+                          "callee": {
+                            "type": "Identifier",
+                            "name": "message",
+                            "range": [
+                              982,
+                              989
+                            ],
+                            "loc": {
+                              "start": {
+                                "line": 40,
+                                "column": 13
+                              },
+                              "end": {
+                                "line": 40,
+                                "column": 20
+                              }
+                            }
+                          },
+                          "arguments": [],
+                          "range": [
+                            982,
+                            991
+                          ],
+                          "loc": {
+                            "start": {
+                              "line": 40,
+                              "column": 13
+                            },
+                            "end": {
+                              "line": 40,
+                              "column": 22
+                            }
+                          }
+                        },
+                        "range": [
+                          972,
+                          991
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 40,
+                            "column": 3
+                          },
+                          "end": {
+                            "line": 40,
+                            "column": 22
+                          }
+                        }
+                      },
+                      "range": [
+                        972,
+                        994
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 40,
+                          "column": 3
+                        },
+                        "end": {
+                          "line": 41,
+                          "column": 2
+                        }
+                      }
+                    },
+                    "alternate": null,
+                    "range": [
+                      936,
+                      994
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 39,
+                        "column": 2
+                      },
+                      "end": {
+                        "line": 41,
+                        "column": 2
+                      }
+                    }
+                  },
+                  {
+                    "type": "ExpressionStatement",
+                    "expression": {
+                      "type": "CallExpression",
+                      "callee": {
+                        "type": "Identifier",
+                        "name": "fail",
+                        "range": [
+                          994,
+                          998
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 41,
+                            "column": 2
+                          },
+                          "end": {
+                            "line": 41,
+                            "column": 6
+                          }
+                        }
+                      },
+                      "arguments": [
+                        {
+                          "type": "Identifier",
+                          "name": "loc",
+                          "range": [
+                            999,
+                            1002
+                          ],
+                          "loc": {
+                            "start": {
+                              "line": 41,
+                              "column": 7
+                            },
+                            "end": {
+                              "line": 41,
+                              "column": 10
+                            }
+                          }
+                        },
+                        {
+                          "type": "Identifier",
+                          "name": "message",
+                          "range": [
+                            1004,
+                            1011
+                          ],
+                          "loc": {
+                            "start": {
+                              "line": 41,
+                              "column": 12
+                            },
+                            "end": {
+                              "line": 41,
+                              "column": 19
+                            }
+                          }
+                        }
+                      ],
+                      "range": [
+                        994,
+                        1012
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 41,
+                          "column": 2
+                        },
+                        "end": {
+                          "line": 41,
+                          "column": 20
+                        }
+                      }
+                    },
+                    "range": [
+                      994,
+                      1014
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 41,
+                        "column": 2
+                      },
+                      "end": {
+                        "line": 42,
+                        "column": 1
+                      }
+                    }
+                  }
+                ],
+                "range": [
+                  886,
+                  1015
+                ],
+                "loc": {
+                  "start": {
+                    "line": 36,
+                    "column": 12
+                  },
+                  "end": {
+                    "line": 42,
+                    "column": 2
+                  }
+                }
+              },
+              "alternate": null,
+              "range": [
+                875,
+                1015
+              ],
+              "loc": {
+                "start": {
+                  "line": 36,
+                  "column": 1
+                },
+                "end": {
+                  "line": 42,
+                  "column": 2
+                }
+              }
+            }
+          ],
+          "range": [
+            872,
+            1017
+          ],
+          "loc": {
+            "start": {
+              "line": 35,
+              "column": 42
+            },
+            "end": {
+              "line": 43,
+              "column": 1
+            }
+          }
+        },
+        "generator": false,
+        "expression": false,
+        "range": [
+          837,
+          1017
+        ],
+        "loc": {
+          "start": {
+            "line": 35,
+            "column": 7
+          },
+          "end": {
+            "line": 43,
+            "column": 1
+          }
+        },
+        "leadingComments": [
+          {
+            "type": "Block",
+            "value": "*\nIf `cond` is false, {@link fail}.\n`loc` and `message` may also be Functions to to get them lazily.\n",
+            "range": [
+              724,
+              829
+            ],
+            "loc": {
+              "start": {
+                "line": 31,
+                "column": 0
+              },
+              "end": {
+                "line": 34,
+                "column": 2
+              }
+            }
+          }
+        ],
+        "trailingComments": [
+          {
+            "type": "Block",
+            "value": "*\nThrow a {@link CompileError}.\nParameters are the same as for {@link warn}.\n",
+            "range": [
+              1019,
+              1100
+            ],
+            "loc": {
+              "start": {
+                "line": 45,
+                "column": 0
+              },
+              "end": {
+                "line": 48,
+                "column": 2
+              }
+            }
+          }
+        ]
+      },
+      "specifiers": [],
+      "source": null,
+      "range": [
+        830,
+        1017
+      ],
+      "loc": {
+        "start": {
+          "line": 35,
+          "column": 0
+        },
+        "end": {
+          "line": 43,
+          "column": 1
+        }
+      },
+      "leadingComments": [
+        {
+          "type": "Block",
+          "value": "*\nIf `cond` is false, {@link fail}.\n`loc` and `message` may also be Functions to to get them lazily.\n",
+          "range": [
+            724,
+            829
+          ],
+          "loc": {
+            "start": {
+              "line": 31,
+              "column": 0
+            },
+            "end": {
+              "line": 34,
+              "column": 2
+            }
+          }
+        }
+      ],
+      "trailingComments": [
+        {
+          "type": "Block",
+          "value": "*\nThrow a {@link CompileError}.\nParameters are the same as for {@link warn}.\n",
+          "range": [
+            1019,
+            1100
+          ],
+          "loc": {
+            "start": {
+              "line": 45,
+              "column": 0
+            },
+            "end": {
+              "line": 48,
+              "column": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": {
+        "type": "FunctionDeclaration",
+        "id": {
+          "type": "Identifier",
+          "name": "fail",
+          "range": [
+            1117,
+            1121
+          ],
+          "loc": {
+            "start": {
+              "line": 49,
+              "column": 16
+            },
+            "end": {
+              "line": 49,
+              "column": 20
+            }
+          }
+        },
+        "params": [
+          {
+            "type": "Identifier",
+            "name": "loc",
+            "range": [
+              1122,
+              1125
+            ],
+            "loc": {
+              "start": {
+                "line": 49,
+                "column": 21
+              },
+              "end": {
+                "line": 49,
+                "column": 24
+              }
+            }
+          },
+          {
+            "type": "Identifier",
+            "name": "message",
+            "range": [
+              1127,
+              1134
+            ],
+            "loc": {
+              "start": {
+                "line": 49,
+                "column": 26
+              },
+              "end": {
+                "line": 49,
+                "column": 33
+              }
+            }
+          }
+        ],
+        "body": {
+          "type": "BlockStatement",
+          "body": [
+            {
+              "type": "ThrowStatement",
+              "argument": {
+                "type": "NewExpression",
+                "callee": {
+                  "type": "Identifier",
+                  "name": "CompileError",
+                  "range": [
+                    1149,
+                    1161
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 50,
+                      "column": 11
+                    },
+                    "end": {
+                      "line": 50,
+                      "column": 23
+                    }
+                  }
+                },
+                "arguments": [
+                  {
+                    "type": "CallExpression",
+                    "callee": {
+                      "type": "Identifier",
+                      "name": "warning",
+                      "range": [
+                        1162,
+                        1169
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 50,
+                          "column": 24
+                        },
+                        "end": {
+                          "line": 50,
+                          "column": 31
+                        }
+                      }
+                    },
+                    "arguments": [
+                      {
+                        "type": "Identifier",
+                        "name": "loc",
+                        "range": [
+                          1170,
+                          1173
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 50,
+                            "column": 32
+                          },
+                          "end": {
+                            "line": 50,
+                            "column": 35
+                          }
+                        }
+                      },
+                      {
+                        "type": "Identifier",
+                        "name": "message",
+                        "range": [
+                          1175,
+                          1182
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 50,
+                            "column": 37
+                          },
+                          "end": {
+                            "line": 50,
+                            "column": 44
+                          }
+                        }
+                      }
+                    ],
+                    "range": [
+                      1162,
+                      1183
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 50,
+                        "column": 24
+                      },
+                      "end": {
+                        "line": 50,
+                        "column": 45
+                      }
+                    }
+                  }
+                ],
+                "range": [
+                  1145,
+                  1184
+                ],
+                "loc": {
+                  "start": {
+                    "line": 50,
+                    "column": 7
+                  },
+                  "end": {
+                    "line": 50,
+                    "column": 46
+                  }
+                }
+              },
+              "range": [
+                1139,
+                1185
+              ],
+              "loc": {
+                "start": {
+                  "line": 50,
+                  "column": 1
+                },
+                "end": {
+                  "line": 51,
+                  "column": 0
+                }
+              }
+            }
+          ],
+          "range": [
+            1136,
+            1186
+          ],
+          "loc": {
+            "start": {
+              "line": 49,
+              "column": 35
+            },
+            "end": {
+              "line": 51,
+              "column": 1
+            }
+          }
+        },
+        "generator": false,
+        "expression": false,
+        "range": [
+          1108,
+          1186
+        ],
+        "loc": {
+          "start": {
+            "line": 49,
+            "column": 7
+          },
+          "end": {
+            "line": 51,
+            "column": 1
+          }
+        },
+        "leadingComments": [
+          {
+            "type": "Block",
+            "value": "*\nThrow a {@link CompileError}.\nParameters are the same as for {@link warn}.\n",
+            "range": [
+              1019,
+              1100
+            ],
+            "loc": {
+              "start": {
+                "line": 45,
+                "column": 0
+              },
+              "end": {
+                "line": 48,
+                "column": 2
+              }
+            }
+          }
+        ],
+        "trailingComments": [
+          {
+            "type": "Block",
+            "value": "*\nAdd a new warning.\n@param {Loc|Pos} loc\n@param {string} message\n\tWill often contain sequences created by {@link code}.\n",
+            "range": [
+              1188,
+              1313
+            ],
+            "loc": {
+              "start": {
+                "line": 53,
+                "column": 0
+              },
+              "end": {
+                "line": 58,
+                "column": 2
+              }
+            }
+          }
+        ]
+      },
+      "specifiers": [],
+      "source": null,
+      "range": [
+        1101,
+        1186
+      ],
+      "loc": {
+        "start": {
+          "line": 49,
+          "column": 0
+        },
+        "end": {
+          "line": 51,
+          "column": 1
+        }
+      },
+      "leadingComments": [
+        {
+          "type": "Block",
+          "value": "*\nThrow a {@link CompileError}.\nParameters are the same as for {@link warn}.\n",
+          "range": [
+            1019,
+            1100
+          ],
+          "loc": {
+            "start": {
+              "line": 45,
+              "column": 0
+            },
+            "end": {
+              "line": 48,
+              "column": 2
+            }
+          }
+        }
+      ],
+      "trailingComments": [
+        {
+          "type": "Block",
+          "value": "*\nAdd a new warning.\n@param {Loc|Pos} loc\n@param {string} message\n\tWill often contain sequences created by {@link code}.\n",
+          "range": [
+            1188,
+            1313
+          ],
+          "loc": {
+            "start": {
+              "line": 53,
+              "column": 0
+            },
+            "end": {
+              "line": 58,
+              "column": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "ExportNamedDeclaration",
+      "declaration": {
+        "type": "FunctionDeclaration",
+        "id": {
+          "type": "Identifier",
+          "name": "warn",
+          "range": [
+            1330,
+            1334
+          ],
+          "loc": {
+            "start": {
+              "line": 59,
+              "column": 16
+            },
+            "end": {
+              "line": 59,
+              "column": 20
+            }
+          }
+        },
+        "params": [
+          {
+            "type": "Identifier",
+            "name": "loc",
+            "range": [
+              1335,
+              1338
+            ],
+            "loc": {
+              "start": {
+                "line": 59,
+                "column": 21
+              },
+              "end": {
+                "line": 59,
+                "column": 24
+              }
+            }
+          },
+          {
+            "type": "Identifier",
+            "name": "message",
+            "range": [
+              1340,
+              1347
+            ],
+            "loc": {
+              "start": {
+                "line": 59,
+                "column": 26
+              },
+              "end": {
+                "line": 59,
+                "column": 33
+              }
+            }
+          }
+        ],
+        "body": {
+          "type": "BlockStatement",
+          "body": [
+            {
+              "type": "ExpressionStatement",
+              "expression": {
+                "type": "CallExpression",
+                "callee": {
+                  "type": "MemberExpression",
+                  "computed": false,
+                  "object": {
+                    "type": "Identifier",
+                    "name": "warnings",
+                    "range": [
+                      1352,
+                      1360
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 60,
+                        "column": 1
+                      },
+                      "end": {
+                        "line": 60,
+                        "column": 9
+                      }
+                    }
+                  },
+                  "property": {
+                    "type": "Identifier",
+                    "name": "push",
+                    "range": [
+                      1361,
+                      1365
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 60,
+                        "column": 10
+                      },
+                      "end": {
+                        "line": 60,
+                        "column": 14
+                      }
+                    }
+                  },
+                  "range": [
+                    1352,
+                    1365
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 60,
+                      "column": 1
+                    },
+                    "end": {
+                      "line": 60,
+                      "column": 14
+                    }
+                  }
+                },
+                "arguments": [
+                  {
+                    "type": "CallExpression",
+                    "callee": {
+                      "type": "Identifier",
+                      "name": "warning",
+                      "range": [
+                        1366,
+                        1373
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 60,
+                          "column": 15
+                        },
+                        "end": {
+                          "line": 60,
+                          "column": 22
+                        }
+                      }
+                    },
+                    "arguments": [
+                      {
+                        "type": "Identifier",
+                        "name": "loc",
+                        "range": [
+                          1374,
+                          1377
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 60,
+                            "column": 23
+                          },
+                          "end": {
+                            "line": 60,
+                            "column": 26
+                          }
+                        }
+                      },
+                      {
+                        "type": "Identifier",
+                        "name": "message",
+                        "range": [
+                          1379,
+                          1386
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 60,
+                            "column": 28
+                          },
+                          "end": {
+                            "line": 60,
+                            "column": 35
+                          }
+                        }
+                      }
+                    ],
+                    "range": [
+                      1366,
+                      1387
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 60,
+                        "column": 15
+                      },
+                      "end": {
+                        "line": 60,
+                        "column": 36
+                      }
+                    }
+                  }
+                ],
+                "range": [
+                  1352,
+                  1388
+                ],
+                "loc": {
+                  "start": {
+                    "line": 60,
+                    "column": 1
+                  },
+                  "end": {
+                    "line": 60,
+                    "column": 37
+                  }
+                }
+              },
+              "range": [
+                1352,
+                1389
+              ],
+              "loc": {
+                "start": {
+                  "line": 60,
+                  "column": 1
+                },
+                "end": {
+                  "line": 61,
+                  "column": 0
+                }
+              }
+            }
+          ],
+          "range": [
+            1349,
+            1390
+          ],
+          "loc": {
+            "start": {
+              "line": 59,
+              "column": 35
+            },
+            "end": {
+              "line": 61,
+              "column": 1
+            }
+          }
+        },
+        "generator": false,
+        "expression": false,
+        "range": [
+          1321,
+          1390
+        ],
+        "loc": {
+          "start": {
+            "line": 59,
+            "column": 7
+          },
+          "end": {
+            "line": 61,
+            "column": 1
+          }
+        },
+        "leadingComments": [
+          {
+            "type": "Block",
+            "value": "*\nAdd a new warning.\n@param {Loc|Pos} loc\n@param {string} message\n\tWill often contain sequences created by {@link code}.\n",
+            "range": [
+              1188,
+              1313
+            ],
+            "loc": {
+              "start": {
+                "line": 53,
+                "column": 0
+              },
+              "end": {
+                "line": 58,
+                "column": 2
+              }
+            }
+          }
+        ],
+        "trailingComments": []
+      },
+      "specifiers": [],
+      "source": null,
+      "range": [
+        1314,
+        1390
+      ],
+      "loc": {
+        "start": {
+          "line": 59,
+          "column": 0
+        },
+        "end": {
+          "line": 61,
+          "column": 1
+        }
+      },
+      "leadingComments": [
+        {
+          "type": "Block",
+          "value": "*\nAdd a new warning.\n@param {Loc|Pos} loc\n@param {string} message\n\tWill often contain sequences created by {@link code}.\n",
+          "range": [
+            1188,
+            1313
+          ],
+          "loc": {
+            "start": {
+              "line": 53,
+              "column": 0
+            },
+            "end": {
+              "line": 58,
+              "column": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "VariableDeclaration",
+      "declarations": [
+        {
+          "type": "VariableDeclarator",
+          "id": {
+            "type": "Identifier",
+            "name": "warning",
+            "range": [
+              1398,
+              1405
+            ],
+            "loc": {
+              "start": {
+                "line": 63,
+                "column": 6
+              },
+              "end": {
+                "line": 63,
+                "column": 13
+              }
+            }
+          },
+          "init": {
+            "type": "ArrowFunctionExpression",
+            "id": null,
+            "params": [
+              {
+                "type": "Identifier",
+                "name": "loc",
+                "range": [
+                  1409,
+                  1412
+                ],
+                "loc": {
+                  "start": {
+                    "line": 63,
+                    "column": 17
+                  },
+                  "end": {
+                    "line": 63,
+                    "column": 20
+                  }
+                }
+              },
+              {
+                "type": "Identifier",
+                "name": "message",
+                "range": [
+                  1414,
+                  1421
+                ],
+                "loc": {
+                  "start": {
+                    "line": 63,
+                    "column": 22
+                  },
+                  "end": {
+                    "line": 63,
+                    "column": 29
+                  }
+                }
+              }
+            ],
+            "body": {
+              "type": "BlockStatement",
+              "body": [
+                {
+                  "type": "IfStatement",
+                  "test": {
+                    "type": "BinaryExpression",
+                    "operator": "instanceof",
+                    "left": {
+                      "type": "Identifier",
+                      "name": "loc",
+                      "range": [
+                        1433,
+                        1436
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 64,
+                          "column": 5
+                        },
+                        "end": {
+                          "line": 64,
+                          "column": 8
+                        }
+                      }
+                    },
+                    "right": {
+                      "type": "Identifier",
+                      "name": "Pos",
+                      "range": [
+                        1448,
+                        1451
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 64,
+                          "column": 20
+                        },
+                        "end": {
+                          "line": 64,
+                          "column": 23
+                        }
+                      }
+                    },
+                    "range": [
+                      1433,
+                      1451
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 64,
+                        "column": 5
+                      },
+                      "end": {
+                        "line": 64,
+                        "column": 23
+                      }
+                    }
+                  },
+                  "consequent": {
+                    "type": "ExpressionStatement",
+                    "expression": {
+                      "type": "AssignmentExpression",
+                      "operator": "=",
+                      "left": {
+                        "type": "Identifier",
+                        "name": "loc",
+                        "range": [
+                          1455,
+                          1458
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 65,
+                            "column": 2
+                          },
+                          "end": {
+                            "line": 65,
+                            "column": 5
+                          }
+                        }
+                      },
+                      "right": {
+                        "type": "CallExpression",
+                        "callee": {
+                          "type": "Identifier",
+                          "name": "singleCharLoc",
+                          "range": [
+                            1461,
+                            1474
+                          ],
+                          "loc": {
+                            "start": {
+                              "line": 65,
+                              "column": 8
+                            },
+                            "end": {
+                              "line": 65,
+                              "column": 21
+                            }
+                          }
+                        },
+                        "arguments": [
+                          {
+                            "type": "Identifier",
+                            "name": "loc",
+                            "range": [
+                              1475,
+                              1478
+                            ],
+                            "loc": {
+                              "start": {
+                                "line": 65,
+                                "column": 22
+                              },
+                              "end": {
+                                "line": 65,
+                                "column": 25
+                              }
+                            }
+                          }
+                        ],
+                        "range": [
+                          1461,
+                          1479
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 65,
+                            "column": 8
+                          },
+                          "end": {
+                            "line": 65,
+                            "column": 26
+                          }
+                        }
+                      },
+                      "range": [
+                        1455,
+                        1479
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 65,
+                          "column": 2
+                        },
+                        "end": {
+                          "line": 65,
+                          "column": 26
+                        }
+                      }
+                    },
+                    "range": [
+                      1455,
+                      1481
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 65,
+                        "column": 2
+                      },
+                      "end": {
+                        "line": 66,
+                        "column": 1
+                      }
+                    }
+                  },
+                  "alternate": null,
+                  "range": [
+                    1429,
+                    1481
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 64,
+                      "column": 1
+                    },
+                    "end": {
+                      "line": 66,
+                      "column": 1
+                    }
+                  }
+                },
+                {
+                  "type": "ReturnStatement",
+                  "argument": {
+                    "type": "NewExpression",
+                    "callee": {
+                      "type": "Identifier",
+                      "name": "Warning",
+                      "range": [
+                        1492,
+                        1499
+                      ],
+                      "loc": {
+                        "start": {
+                          "line": 66,
+                          "column": 12
+                        },
+                        "end": {
+                          "line": 66,
+                          "column": 19
+                        }
+                      }
+                    },
+                    "arguments": [
+                      {
+                        "type": "Identifier",
+                        "name": "loc",
+                        "range": [
+                          1500,
+                          1503
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 66,
+                            "column": 20
+                          },
+                          "end": {
+                            "line": 66,
+                            "column": 23
+                          }
+                        }
+                      },
+                      {
+                        "type": "Identifier",
+                        "name": "message",
+                        "range": [
+                          1505,
+                          1512
+                        ],
+                        "loc": {
+                          "start": {
+                            "line": 66,
+                            "column": 25
+                          },
+                          "end": {
+                            "line": 66,
+                            "column": 32
+                          }
+                        }
+                      }
+                    ],
+                    "range": [
+                      1488,
+                      1513
+                    ],
+                    "loc": {
+                      "start": {
+                        "line": 66,
+                        "column": 8
+                      },
+                      "end": {
+                        "line": 66,
+                        "column": 33
+                      }
+                    }
+                  },
+                  "range": [
+                    1481,
+                    1514
+                  ],
+                  "loc": {
+                    "start": {
+                      "line": 66,
+                      "column": 1
+                    },
+                    "end": {
+                      "line": 67,
+                      "column": 0
+                    }
+                  }
+                }
+              ],
+              "range": [
+                1426,
+                1515
+              ],
+              "loc": {
+                "start": {
+                  "line": 63,
+                  "column": 34
+                },
+                "end": {
+                  "line": 67,
+                  "column": 1
+                }
+              }
+            },
+            "generator": false,
+            "expression": false,
+            "range": [
+              1408,
+              1515
+            ],
+            "loc": {
+              "start": {
+                "line": 63,
+                "column": 16
+              },
+              "end": {
+                "line": 67,
+                "column": 1
+              }
+            }
+          },
+          "range": [
+            1398,
+            1515
+          ],
+          "loc": {
+            "start": {
+              "line": 63,
+              "column": 6
+            },
+            "end": {
+              "line": 67,
+              "column": 1
+            }
+          }
+        }
+      ],
+      "kind": "const",
+      "range": [
+        1392,
+        1516
+      ],
+      "loc": {
+        "start": {
+          "line": 63,
+          "column": 0
+        },
+        "end": {
+          "line": 68,
+          "column": 0
+        }
+      }
+    }
+  ],
+  "sourceType": "module",
+  "range": [
+    0,
+    1516
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0
+    },
+    "end": {
+      "line": 68,
+      "column": 0
+    }
+  },
+  "comments": [
+    {
+      "type": "Block",
+      "value": "*\nOptions that were passed in at the call to {@link compile}.\n@type {CompileOptions}\n",
+      "range": [
+        151,
+        240
+      ],
+      "loc": {
+        "start": {
+          "line": 5,
+          "column": 0
+        },
+        "end": {
+          "line": 8,
+          "column": 2
+        }
+      }
+    },
+    {
+      "type": "Block",
+      "value": "*\nArray of all warnings produced during compilation.\n(Please use {@warn} instead of writing to this directly.)\n",
+      "range": [
+        260,
+        375
+      ],
+      "loc": {
+        "start": {
+          "line": 10,
+          "column": 0
+        },
+        "end": {
+          "line": 13,
+          "column": 2
+        }
+      }
+    },
+    {
+      "type": "Block",
+      "value": "*\nWrite to {@link options} and {@link warnings}.\nRemember to call {@link unsetContext}!\n",
+      "range": [
+        397,
+        489
+      ],
+      "loc": {
+        "start": {
+          "line": 16,
+          "column": 0
+        },
+        "end": {
+          "line": 19,
+          "column": 2
+        }
+      }
+    },
+    {
+      "type": "Block",
+      "value": "* Release {@link options} and {@link warnings} for garbage collection. ",
+      "range": [
+        579,
+        654
+      ],
+      "loc": {
+        "start": {
+          "line": 25,
+          "column": 0
+        },
+        "end": {
+          "line": 25,
+          "column": 75
+        }
+      }
+    },
+    {
+      "type": "Block",
+      "value": "*\nIf `cond` is false, {@link fail}.\n`loc` and `message` may also be Functions to to get them lazily.\n",
+      "range": [
+        724,
+        829
+      ],
+      "loc": {
+        "start": {
+          "line": 31,
+          "column": 0
+        },
+        "end": {
+          "line": 34,
+          "column": 2
+        }
+      }
+    },
+    {
+      "type": "Block",
+      "value": "*\nThrow a {@link CompileError}.\nParameters are the same as for {@link warn}.\n",
+      "range": [
+        1019,
+        1100
+      ],
+      "loc": {
+        "start": {
+          "line": 45,
+          "column": 0
+        },
+        "end": {
+          "line": 48,
+          "column": 2
+        }
+      }
+    },
+    {
+      "type": "Block",
+      "value": "*\nAdd a new warning.\n@param {Loc|Pos} loc\n@param {string} message\n\tWill often contain sequences created by {@link code}.\n",
+      "range": [
+        1188,
+        1313
+      ],
+      "loc": {
+        "start": {
+          "line": 53,
+          "column": 0
+        },
+        "end": {
+          "line": 58,
+          "column": 2
+        }
+      }
+    }
+  ]
+}
